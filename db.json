@@ -1,0 +1,27 @@
+[
+      {
+        id:1,
+        completed:false,
+        title:'My first element!!'
+      },
+      {
+        id:2,
+        completed:true,
+        title:'A very VERY fine second element'
+      },
+      {
+        id:3,
+        completed:false,
+        title:'Hey! Why not add another element???'
+      },
+      {
+        id:4,
+        completed:true,
+        title:'Hey! Why not add another element???'
+      },
+      {
+        id:4,
+        completed:false,
+        title:'Hey! Why not add another element???'
+      }
+    ]
